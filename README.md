@@ -3,7 +3,7 @@ Welcome!
 This is a python repository to generate HCR v3.0 probes for in situ hybridization visualization of mRNA in Anopheles Gambiae.
 The module allows for quick and easy design of probe pairs for the Hybridization Chain Reaction approach (Choi et al. Development 2018.)
 
-You can install the HCR probe design tool to first create a virtual environment using conda:
+You can install the HCR probe design tool by first creating a virtual environment using conda:
 
 ```
 conda create --name HCR python=3.10.0

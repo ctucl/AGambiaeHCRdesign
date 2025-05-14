@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="AGambiaeHCRdesign",  # Replace with your package name
-    version="0.2.0",  # Initial version
+    version="0.3.0",  # Initial version
     packages=['AGambiaeHCRdesign'],  # Automatically discover Python packages
     install_requires=[  # Add dependencies here
         "biopython==1.80",  # Example dependency

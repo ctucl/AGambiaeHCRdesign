@@ -5,8 +5,7 @@ setup(
     version="0.1.0",  # Initial version
     packages=['AGambiaeHCRdesign'],  # Automatically discover Python packages
     install_requires=[  # Add dependencies here
-        "Bio<=1.8.0"
-        "biopython<=1.8.0",  # Example dependency
+        "biopython==1.80",  # Example dependency
         "pandas"  # Example dependency
     ],
     author="Chintan Trivedi",
